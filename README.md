@@ -30,7 +30,8 @@ The code was run with the following Matlab configuration
 MATLAB Version: 9.10.0.1602886 (R2021a)  
 MATLAB License Number: 968398  
 Operating System: Microsoft Windows 10 Professionnel Version 10.0 (Build 19045)  
-Java Version: Java 1.8.0_202-b08 with Oracle Corporation Java HotSpot(TM) 64-Bit Server VM mixed mode  
+Java Version: Java 1.8.0_202-b08 with Oracle Corporation Jave HotSpot(TM) 64-Bit Server VM mixed mode  
+
 -----------------------------------------------------------------------------------------------------
 MATLAB &nbsp;&nbsp;&nbsp;                             Version 9.10        (R2021a)  
 Simulink    &nbsp;&nbsp;&nbsp;                                           Version 10.3  &nbsp;&nbsp;&nbsp;       (R2021a)  

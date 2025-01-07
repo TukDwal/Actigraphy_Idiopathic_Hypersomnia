@@ -30,9 +30,9 @@ MATLAB Version: 9.10.0.1602886 (R2021a)
 Operating System: Microsoft Windows 10 Professionnel Version 10.0 (Build 19045)
 Java Version: Java 1.8.0_202-b08 with Oracle Corporation Java HotSpot(TM) 64-Bit Server VM mixed mode
 -----------------------------------------------------------------------------------------------------
-MATLAB                                                Version 9.10        (R2021a)
-Simulink                                              Version 10.3        (R2021a)
-5G Toolbox                                            Version 2.2         (R2021a)
+- MATLAB                                                Version 9.10        (R2021a)
+- Simulink                                              Version 10.3        (R2021a)
+- 5G Toolbox                                            Version 2.2         (R2021a)
 AUTOSAR Blockset                                      Version 2.4         (R2021a)
 Aerospace Blockset                                    Version 5.0         (R2021a)
 Aerospace Toolbox                                     Version 4.0         (R2021a)

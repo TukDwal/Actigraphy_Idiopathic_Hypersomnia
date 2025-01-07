@@ -147,7 +147,7 @@ Wireless HDL Toolbox                   &nbsp;&nbsp;&nbsp;                Version
 ___
 **MAIN.m** contains 6 blocks: 
 - Blocks 1-5 are aimed are reproducing the findings from the article
-- Block 6 allows the user to predict sleep/wake on their own data, this block may be used independently from the others, in that case the user needs to load the already-trained model "full_model" in the workspace before proceeding 
+- Block 6 allows the user to predict sleep/wake on their own data, this block may be used independently from the others, in that case the user needs to load the already-trained model "full_mdl" in the workspace before proceeding 
 
 Note that the code includes a random component, and unfortunately no seeding was performed on this account. 
 Although the use of bootstraps greatly reduces the impact of randomness on the results, it is unlikely that this pipeline reproduces the exact same results that were reported in the article.

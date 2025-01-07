@@ -6,7 +6,9 @@ This archive contains all the Matlab code and data required to reproduce the res
 Actigraphy algorithm against 32-hour continuous polysomnography to assess sleep-wake patterns in patients with suspected idiopathic hypersomnia
 Tugdual Adam, Msc 1,2, Jérôme Tanty 2, Lucie Barateau, MD, PhD 1,2,3, Yves Dauvilliers, MD, PhD 1,2,3 *
 1 Institute of Neurosciences of Montpellier (INM), University of Montpellier, INSERM, France 
+
 2 Sleep-Wake Disorders Unit, Department of Neurology, Gui-de-Chauliac Hospital, CHU Montpellier, France
+
 3 National Reference Centre for Orphan Diseases, Narcolepsy, Idiopathic Hypersomnia, and Kleine-Levin Syndrome, Montpellier, France
 
 - MAIN.m contains the main commented code that guides the user through the correct reproduction of the results
